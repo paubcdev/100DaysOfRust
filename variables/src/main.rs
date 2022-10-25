@@ -1,4 +1,4 @@
-// Variables in Rust
+// Variables in Rust, pt1
 // Use "let" to declare a variable, then "=" to assign it
 
 fn main() {
