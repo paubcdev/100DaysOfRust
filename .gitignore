@@ -1,1 +1,7 @@
 hello_world/main
+variables/target
+variables/Cargo.lock
+variables/Cargo.toml
+variables2/target
+variables2/Cargo.lock
+variables2/Cargo.toml
