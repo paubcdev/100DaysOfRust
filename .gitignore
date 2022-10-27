@@ -1,10 +1,10 @@
 hello_world/main
-variables/target
-variables/Cargo.lock
-variables/Cargo.toml
-variables2/target
-variables2/Cargo.lock
-variables2/Cargo.toml
+day2_variables/target
+day2_variables/Cargo.lock
+day2_variables/Cargo.toml
+day3_variables2/target
+day3_variables2/Cargo.lock
+day3_variables2/Cargo.toml
 day4_functions1/target
 day4_functions1/Cargo.lock
 day4_functions1/Cargo.toml
