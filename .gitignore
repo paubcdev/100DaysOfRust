@@ -8,3 +8,6 @@ day3_variables2/Cargo.toml
 day4_functions1/target
 day4_functions1/Cargo.lock
 day4_functions1/Cargo.toml
+day5_functions_arrays/target
+day5_functions_arrays/Cargo.lock
+day5_functions_arrays/Cargo.toml
