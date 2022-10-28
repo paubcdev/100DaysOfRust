@@ -4,4 +4,5 @@
 * Day 2 (25/10/2022): checked the "cargo" builder/manager, and how it works. Started working on understanding variables.
 * Day 3 (26/10/2022): continued working on variables. Learned how data types work, checked constants, variable "shadowing", and tuples.
 * Day 4 (27/10/2022): short day, started working on functions.
-* Day 5 (28/10/2022): second day of functions that return values, worked on arrays and looked at how "if" expressions work
+* Day 5 (28/10/2022): second day of functions that return values, worked on arrays and looked at how "if" expressions work.
+* Day 6 (29/10/2022): decided to review the first week of concepts learnt by making a simple program to check if a given number is prime.
