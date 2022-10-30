@@ -6,3 +6,4 @@
 * Day 4 (27/10/2022): short day, started working on functions.
 * Day 5 (28/10/2022): second day of functions that return values, worked on arrays and looked at how "if" expressions work.
 * Day 6 (29/10/2022): decided to review the first week of concepts learnt by making a simple program to check if a given number is prime.
+* Day 7 (30/10/2022): started looking into the package manager (crates), that uses cargo, wrote a simple code to generate random numbers

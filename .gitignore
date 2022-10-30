@@ -14,3 +14,5 @@ day05_functions_arrays/Cargo.toml
 day06_prime_code/target
 day06_prime_code/Cargo.lock
 day06_prime_code/Cargo.toml
+day07_rng/target
+day07_rng/Cargo.lock
