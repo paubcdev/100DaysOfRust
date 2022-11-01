@@ -7,3 +7,4 @@
 * Day 5 (28/10/2022): second day of functions that return values, worked on arrays and looked at how "if" expressions work.
 * Day 6 (29/10/2022): decided to review the first week of concepts learnt by making a simple program to check if a given number is prime.
 * Day 7 (30/10/2022): started looking into the package manager (crates), that uses cargo, wrote a simple code to generate random numbers
+* Day 8 - 9 (31/10/2022 & 1/11/2022): heavy theory days, understanding the first steps in the concept of ownership in the language
