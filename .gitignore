@@ -19,3 +19,6 @@ day07_rng/Cargo.lock
 day08_day09_ownership/Cargo.toml
 day08_day09_ownership/Cargo.lock
 day08_day09_ownership/target
+day10_references/Cargo.toml
+day10_references/Cargo.lock
+day10_references/target
