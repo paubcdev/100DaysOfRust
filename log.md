@@ -9,3 +9,4 @@
 * Day 7 (30/10/2022): started looking into the package manager (crates), that uses cargo, wrote a simple code to generate random numbers
 * Day 8 - 9 (31/10/2022 & 1/11/2022): heavy theory days, understanding the first steps in the concept of ownership in the language
 * Day 10 (2/11/2022): referencing variables and the borrowing concept
+* Day 11 (3/11/2022): started training with katas from codewars.com

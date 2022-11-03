@@ -22,3 +22,6 @@ day08_day09_ownership/target
 day10_references/Cargo.toml
 day10_references/Cargo.lock
 day10_references/target
+day11_katas_1/Cargo.toml
+day11_katas_1/Cargo.lock
+day11_katas_1/target
