@@ -12,3 +12,4 @@
 * Day 11 (3/11/2022): started training with katas from codewars.com
 * Day 12 (4/11/2022): continued training katas
 * Day 13 (5/11/2022): more katas
+* Day 14 (6/11/2022): vectors
