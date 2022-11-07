@@ -13,3 +13,4 @@
 * Day 12 (4/11/2022): continued training katas
 * Day 13 (5/11/2022): more katas
 * Day 14 (6/11/2022): vectors
+* Day 15 (7/11/2022): hash maps and how they work

@@ -34,3 +34,8 @@ day13_katas_3/Cargo.lock
 day14_vectors/target
 day14_vectors/Cargo.toml
 day14_vectors/Cargo.lock
+day15_hashes/target
+day15_hashes/Cargo.toml
+day15_hashes/Cargo.lock
+
+dump_files
