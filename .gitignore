@@ -37,8 +37,8 @@ day14_vectors/Cargo.lock
 day15_hashes/target
 day15_hashes/Cargo.toml
 day15_hashes/Cargo.lock
-day16/target
-day16/Cargo.toml
-day16/Cargo.lock
+day16_errors_1/target
+day16_errors_1/Cargo.toml
+day16_errors_1/Cargo.lock
 
 dump_files
