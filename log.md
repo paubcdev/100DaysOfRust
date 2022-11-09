@@ -15,3 +15,4 @@
 * Day 14 (6/11/2022): vectors
 * Day 15 (7/11/2022): hash maps and how they work
 * Day 16 (8/11/2022): handling errors, part 1 and kata example
+* Day 17 (9/11/2022): handling errors, part 2: Options and Results

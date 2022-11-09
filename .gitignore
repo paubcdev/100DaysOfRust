@@ -40,5 +40,8 @@ day15_hashes/Cargo.lock
 day16_errors_1/target
 day16_errors_1/Cargo.toml
 day16_errors_1/Cargo.lock
+day17_errors_2/target
+day17_errors_2/Cargo.toml
+day17_errors_2/Cargo.lock
 
 dump_files
