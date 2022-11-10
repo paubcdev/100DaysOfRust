@@ -16,3 +16,4 @@
 * Day 15 (7/11/2022): hash maps and how they work
 * Day 16 (8/11/2022): handling errors, part 1 and kata example
 * Day 17 (9/11/2022): handling errors, part 2: Options and Results
+* Day 18 (10/11/2022): kata training
