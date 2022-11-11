@@ -46,5 +46,8 @@ day17_errors_2/Cargo.lock
 day18_katas_4/target
 day18_katas_4/Cargo.toml
 day18_katas_4/Cargo.lock
+day19_katas_5/target
+day19_katas_5/Cargo.toml
+day19_katas_5/Cargo.lock
 
 dump_files

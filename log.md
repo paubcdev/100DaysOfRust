@@ -17,3 +17,4 @@
 * Day 16 (8/11/2022): handling errors, part 1 and kata example
 * Day 17 (9/11/2022): handling errors, part 2: Options and Results
 * Day 18 (10/11/2022): kata training
+* Day 19 (11/11/2022): algorithm training with katas
