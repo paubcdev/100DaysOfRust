@@ -49,5 +49,8 @@ day18_katas_4/Cargo.lock
 day19_katas_5/target
 day19_katas_5/Cargo.toml
 day19_katas_5/Cargo.lock
+day20_algo_training/target
+day20_algo_training/Cargo.toml
+day20_algo_training/Cargo.lock
 
 dump_files
