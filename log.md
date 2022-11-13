@@ -19,3 +19,4 @@
 * Day 18 (10/11/2022): kata training
 * Day 19 (11/11/2022): algorithm training with katas
 * Day 20 (12/11/2022): more algo training
+* Day 21 (13/11/2022): structs, part 1
