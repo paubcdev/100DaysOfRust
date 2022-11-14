@@ -55,5 +55,8 @@ day20_algo_training/Cargo.lock
 day21_structs_1/target
 day21_structs_1/Cargo.toml
 day21_structs_1/Cargo.lock
+day22_kata_review/target
+day22_kata_review/Cargo.toml
+day22_kata_review/Cargo.lock
 
 dump_files
