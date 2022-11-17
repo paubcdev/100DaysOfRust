@@ -61,5 +61,8 @@ day22_kata_review/Cargo.lock
 day23_structs_2/target
 day23_structs_2/Cargo.toml
 day23_structs_2/Cargo.lock
+day24_katas_6/target
+day24_katas_6/Cargo.toml
+day24_katas_6/Cargo.lock
 
 dump_files
