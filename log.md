@@ -23,3 +23,4 @@
 * Day 22 (14/11/2022): kata training, but selecting specific ones to review important already-learned concepts
 * Day 23 (15/11/2022): structs, part 2, specifically methods
 * Day 24 (17/11/2022): kata training
+* Day 25 (19/11/2022): minigrep clone, part 1

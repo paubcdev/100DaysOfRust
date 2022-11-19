@@ -64,5 +64,6 @@ day23_structs_2/Cargo.lock
 day24_katas_6/target
 day24_katas_6/Cargo.toml
 day24_katas_6/Cargo.lock
+minigrep/target
 
 dump_files
