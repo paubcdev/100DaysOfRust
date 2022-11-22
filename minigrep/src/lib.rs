@@ -31,7 +31,36 @@ impl Config  {
 // The logic is extracted from the main function and put into a separate run function, for readibility and modularity
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     let contents = fs::read_to_string(config.file_path)?; // the file is read and put into a string, using the read_to_string() function from the fs module
+
+    for line in search(&config.query, &contents) {
+        println!("{line}");
+    }
     
-    println!("With text:\n{contents}");
     Ok(())
+}
+
+pub fn search<'a>(query: &str, contents: &'a str) -> Vec<&'a str> {
+    let mut results = Vec::new();
+
+    for line in contents.lines() {
+        if line.contains(query) {
+            results.push(line);
+        }
+    }
+    results
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    #[test]
+    fn one_result() {
+        let query = "duct";
+        let contents = "\
+Rust:
+safe, fast, productive.
+Pick three.";
+
+        assert_eq!(vec!["safe, fast, productive."], search(query, contents));
+    }
 }
