@@ -65,5 +65,8 @@ day24_katas_6/target
 day24_katas_6/Cargo.toml
 day24_katas_6/Cargo.lock
 minigrep/target
+day29_testing_1/target
+day29_testing_1/Cargo.toml
+day29_testing_1/Cargo.lock
 
 dump_files
