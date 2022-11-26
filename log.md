@@ -29,3 +29,4 @@
 * Day 28 (22/11/2022): minigrep clone, part 4, wrote autotesting feature, updated search function
 * Day 29 (24/11/2022): testing, part 1
 * Day 30 (25/11/2022): kata training
+* Day 31 (26/11/2022): kata training
