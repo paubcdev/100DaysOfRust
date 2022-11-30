@@ -77,5 +77,8 @@ day31_katas_8/Cargo.lock
 day33/target
 day33/Cargo.toml
 day33/Cargo.lock
+day34/target
+day34/Cargo.toml
+day34/Cargo.lock
 
 dump_files

@@ -1,0 +1,2 @@
+This is just a really long text string that I am using to test this function of the Rust language. If all goes well, it should write it on a new text file and then tell us it did in the console.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

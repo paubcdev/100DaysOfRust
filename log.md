@@ -32,3 +32,4 @@
 * Day 31 (26/11/2022): kata training
 * Day 32 (27/11/2022): heavy study day, no coding done
 * Day 33 (29/11/2022): I/O and fs manipulation, part 1
+* Day 34 (30/11/2022): I/O and fs manipulation, part 2
